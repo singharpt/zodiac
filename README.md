@@ -37,7 +37,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/A7JTI0a.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/singharpt/zodiac/blob/main/gif_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 [ScreenToGif](https://www.screentogif.com/) for Windows
 
