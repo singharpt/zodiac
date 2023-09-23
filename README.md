@@ -1,4 +1,4 @@
-# WEB103 Project 1 - *Zodiacs*
+# WEB103 Project 1 - _Zodiacs_
 
 Submitted by: **Arpit Singh**
 
@@ -11,11 +11,12 @@ Time spent: **4** hours
 The following **required** functionality is completed:
 
 <!-- Make sure to check off completed functionality below -->
+
 - [x] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
 - [x] **The web app displays a title**
 - [x] **The web app displays at least five list items, each with at least three attributes (such as title, text, and image url)**
 - [x] **The user can click on each item in the list to see a detailed view of it, including all database fields**
-  - [x] *Note: When showing this feature in the video walkthrough, please show the unique URL for each detailed view. We will not be able to give points if we cannot see the implementation* 
+  - [x] _Note: When showing this feature in the video walkthrough, please show the unique URL for each detailed view. We will not be able to give points if we cannot see the implementation_
 - [x] **The web app serves an appropriate 404 page when no matching route is defined**
 - [x] **The web app is appropriately styled using Picocss**
 
@@ -27,11 +28,16 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you added to improve the site's functionality!
 
+## How to run
+
+- npm install
+- npm start
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/A7JTI0a.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 [ScreenToGif](https://www.screentogif.com/) for Windows
 

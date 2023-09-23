@@ -61,15 +61,17 @@ const zodiacData = [
   },
 ];
 
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener("DOMContentLoaded", function () {
   function createZodiacCards() {
-    const zodiacCardsContainer = document.getElementById('zodiac-cards');
+    const zodiacCardsContainer = document.getElementById("zodiac-cards");
 
     zodiacData.forEach((zodiac) => {
-      const card = document.createElement('article');
-      card.classList.add('zodiac-card');
+      const card = document.createElement("article");
+      card.classList.add("zodiac-card");
 
-      const keywords = zodiac.keywords.map((keyword) => `<li>${keyword}</li>`).join('');
+      const keywords = zodiac.keywords
+        .map((keyword) => `<li>${keyword}</li>`)
+        .join("");
       const keywordsList = `<ul>${keywords}</ul>`;
 
       card.innerHTML = `
@@ -83,4 +85,4 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   createZodiacCards();
-})
+});
