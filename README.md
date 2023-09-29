@@ -1,4 +1,4 @@
-# WEB103 Project 1 - _Zodiacs_
+# WEB103 Project 2 - _Zodiacs_
 
 Submitted by: **Arpit Singh**
 
