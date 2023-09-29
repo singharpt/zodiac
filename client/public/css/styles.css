@@ -54,6 +54,8 @@ section {
   margin: 15px;
   transform: scale(1);
   transition: transform 0.5s ease-in-out;
+  text-transform: capitalize;
+  border-radius: 10px;
 }
 
 .zodiac-card li {
@@ -76,18 +78,29 @@ section {
   color: rgba(247, 240, 240, 0.848);
 }
 
+.container {
+  background-color: white;
+  padding: 40px;
+  text-align: center;
+  border-radius: 10px;
+}
+
 .container h2 {
-  color: rgba(247, 240, 240, 0.848);
+  text-transform: capitalize;
+  text-align: left;
+  font-size: 50px;
 }
 
 .container h4 {
-  color: rgba(247, 240, 240, 0.848);
+  text-align: left;
 }
 
 .container h5 {
-  color: rgba(247, 240, 240, 0.848);
+  text-align: left;
 }
 
-.container p {
-  color: rgba(247, 240, 240, 0.848);
+.container img {
+  width: 500px;
+  height: 500px;
+  border-radius: 20px;
 }
