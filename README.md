@@ -11,6 +11,7 @@ Time spent: **2** hours
 The following **required** functionality is completed:
 
 <!-- Make sure to check off completed functionality below -->
+
 - [x] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
 - [x] **The web app is connected to a PostgreSQL database, with an appropriately structured database table for the list items**
 - [x] **The PostgreSQL database includes a table that matches the data displayed in the web app**
@@ -20,19 +21,11 @@ The following **optional** features are implemented:
 
 - [x] The user can search for items with a specific attribute
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you added to improve the site's functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
 <img src='https://github.com/singharpt/zodiac/blob/main/gif_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-## Notes
-
-Describe any challenges encountered while building the app or any additional context you'd like to add.
 
 ## License
 
