@@ -28,7 +28,7 @@ const createZodiacCard = (zodiac) => {
       <a href="/zodiac/${zodiac.name}" role="button">Read More</a>
     </div>
   `;
-  card.style.backgroundImage = `url(https://media.istockphoto.com/id/1254193690/photo/aries-constellation-in-night-starry-sky-aries-zodiac-symbol-by-stars.jpg?s=1024x1024&w=is&k=20&c=YYalr2WOLykLek3slwaYPwRT7gooTnU28YApxUOY8Jw=)`;
+  card.style.backgroundImage = `url(https://i.swncdn.com/media/950w/via/21278-istockgetty-images-plusromolotavani-14.jpg)`;
   return card;
 };
 
@@ -84,7 +84,12 @@ const fetchAndRenderZodiacDetails = async (zodiacSign) => {
     section.appendChild(container);
   } catch (error) {
     console.error("Error fetching zodiac details:", error);
-    document.location.href = "/";
+    // document.location.href = "/";
+    const headerTitle = document.getElementById("header-title");
+    headerTitle.textContent = "Error 404";
+    const headerInfo = document.getElementById("header-info");
+    headerInfo.textContent =
+      "The requested zodiac sign is not found. To go back click zodiacs below";
   }
 };
 
