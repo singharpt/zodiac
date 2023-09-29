@@ -4,7 +4,7 @@ Submitted by: **Arpit Singh**
 
 About this web app: **The app provides information about different zodiac signs**
 
-Time spent: **4** hours
+Time spent: **2** hours
 
 ## Required Features
 
