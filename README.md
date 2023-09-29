@@ -30,8 +30,6 @@ Here's a walkthrough of implemented required features:
 
 <img src='https://github.com/singharpt/zodiac/blob/main/gif_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-[ScreenToGif](https://www.screentogif.com/) for Windows
-
 ## Notes
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
