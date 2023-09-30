@@ -79,7 +79,7 @@ section {
 }
 
 .container {
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.336);
   padding: 40px;
   text-align: center;
   border-radius: 10px;
@@ -89,17 +89,22 @@ section {
   text-transform: capitalize;
   text-align: left;
   font-size: 50px;
+  color: white;
 }
 
 .container h4 {
   text-align: left;
+  color: white;
 }
 
 .container h5 {
   text-align: left;
+  color: white;
 }
 
 .container img {
+  background-color: white;
+  padding: 10px;
   width: 500px;
   height: 500px;
   border-radius: 20px;
